@@ -1,5 +1,3 @@
-# whatsapp_bot
+# Sakshya AUV sambhalega
 
-# code soon....
-
-# follow me on github, give star to repo to show your love....
+## Anupam bhaiya kitna kaam karwaoge
